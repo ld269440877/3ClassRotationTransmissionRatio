@@ -1,7 +1,9 @@
 # 基于碳纳米管的多级纳米旋转传动系统的设计与研究
 
 [所有模型的源文件-结果-可视化等上百G百度网盘链接](https://pan.baidu.com/s/1myylGlC5NW6Ka2lNjtCkCg) 提取码：4K13
+
 <img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/所有模型的源文件-结果-可视化等上百G百度网盘链接.png" width="350" height="250" alt="图片名称" align=center>
+
 [本文档案例所有素材链接](https://github.com/ld269440877/images/tree/master/3CRTR)
 
 <img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/本文档案例所有素材链接.png" width="350" height="250" alt="图片名称" align=center>
@@ -27,13 +29,14 @@
 > 2. `可变目录`代表切换到指定存储新建模型的文件夹内，该程序所产生的文件均在该目录下
 > 3. 程序运行结束后会切换到`固定目录`，遵守一个模型一个文件夹原则
 
+
 ## 建模
 
 ### VMD创建单根碳纳米管模型
 
 VMD创建碳纳米管模型，根据用途分类，分别存放在电机、转子、定子命名的文件夹内，每个碳纳米管模型的文件命名规则为`模型用途类型-半径-手性-长度-原子总数.gro`[碳纳米管gro文件](https://github.com/ld269440877/images/tree/master/3CRTR/Models_two_class)，[NanoTubeChiralityandRadii.xlsx](https://github.com/ld269440877/images/blob/master/3CRTR/NanoTubeChiralityandRadii.xlsx)
 
-![VMD创建碳纳米管模型并分类](https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/VMD创建碳纳米管模型并分类.png ){:height="10" width="10"}
+![VMD创建碳纳米管模型并分类](https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/VMD创建碳纳米管模型并分类.png )
 
 ### python程序3CRTR模建并创建3CRTR模型相应的LAMMPS计算文件
 
