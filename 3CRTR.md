@@ -1,5 +1,6 @@
 # 基于碳纳米管的多级纳米旋转传动系统的设计与研究
 
+[所有模型的源文件-结果-可视化等上百G百度网盘链接](https://pan.baidu.com/s/1myylGlC5NW6Ka2lNjtCkCg) 提取码：4K13
 > 参考资料
  > [基于碳纳米管的多级纳米旋转传动系统的设计与研究所有相关的文件均可在此链接获得](https://github.com/ld269440877/images/tree/master/3CRTR)
 >- 参考文献和endnote库文档及样式（文件夹3ClassPDFReference）
@@ -14,6 +15,7 @@
 >- 我的大论文和两篇小论文2019PDF[3CRTRPapers链接](https://github.com/ld269440877/images/tree/master/3CRTR/MyPapers)
 >- [一劳永逸，打造自己的word常规模板 - 知乎](https://zhuanlan.zhihu.com/p/22737822?utm_source=wechat_session&utm_medium=social&s_s_i=0Jr%2F66LIPO69pu1XHpcJTQP3RFNwcbT5YPmgcocanUY%3D&s_r=0&wechatShare=1)
 [Endnote的使用方法（史上最详细）](https://mp.weixin.qq.com/s/Qr5mvy4rQ-wAfEcE9i4ypA)
+[Endnote软件及视频教程非常实用百度网盘链接](https://pan.baidu.com/s/1zO3a4z-gil2i0PDfZ2NEPQ) 提取码：p4Tb
 
 > 注：源码程序执行过程中会切换目录
 > 1. `固定目录`代表源码文件所在目录，此目录不存储其他文件
