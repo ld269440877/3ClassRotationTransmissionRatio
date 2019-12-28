@@ -24,10 +24,14 @@
 [Endnote的使用方法（史上最详细）](https://mp.weixin.qq.com/s/Qr5mvy4rQ-wAfEcE9i4ypA)
 [Endnote软件及视频教程非常实用百度网盘链接](https://pan.baidu.com/s/1zO3a4z-gil2i0PDfZ2NEPQ) 提取码：p4Tb
 
-> 注：源码程序执行过程中会切换目录
-> 1. `固定目录`代表源码文件所在目录，此目录不存储其他文件
-> 2. `可变目录`代表切换到指定存储新建模型的文件夹内，该程序所产生的文件均在该目录下
-> 3. 程序运行结束后会切换到`固定目录`，遵守一个模型一个文件夹原则
+- 文献查询引用下载网站
+
+  - [谷歌学术镜像_Google镜像站](http://scholar.hedasudi.com/)
+  <img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/谷歌学术镜像导航.png" alt="谷歌学术镜像导航"  title="谷歌学术镜像导航" width="300" height="">
+<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/谷歌镜像站引用格式参考.png" alt="谷歌镜像站引用格式参考"  title="谷歌镜像站引用格式参考" width="300" height="">
+
+  - [百度学术-保持学习的态度](http://xueshu.baidu.com/)
+<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/百度学术-保持学习的态度.png" alt="百度学术-保持学习的态度"  title="百度学术-保持学习的态度" width="300" height="">
 
 PicGo设置自定义链接格式：`<img src="$url" alt="$fileName"  title="$fileName" width="600" height="">`
 
@@ -63,7 +67,9 @@ VMD创建碳纳米管模型，根据用途分类，分别存放在电机、转�
 ### 一个模型的数据分析及可视化
 
 - 每个模型的数据单独处理同时可视化查看仿真结果
+
 [单个模型的数据处理及可视化源码](https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/3CRTRDataAnalysisandVisualization.ipynb)
+
 ![单个模型的数据处理及可视化源码图](https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/单个模型的数据处理及可视化.png)
 1. 计算转子1-3的质心
 2. 计算转子1-3的旋转传动比RTR
@@ -88,3 +94,8 @@ VMD创建碳纳米管模型，根据用途分类，分别存放在电机、转�
 2. 设置每个模型的格式`M*-(n,m)-(n,m)-(n,m)-(n,m)`便于设置图片中的模型的编号
 3. 设置图片中的模型编号样式
 4. 可视化
+
+> 注：源码程序执行过程中会切换目录
+> 1. `固定目录`代表源码文件所在目录，此目录不存储其他文件
+> 2. `可变目录`代表切换到指定存储新建模型的文件夹内，该程序所产生的文件均在该目录下
+> 3. 程序运行结束后会切换到`固定目录`，遵守一个模型一个文件夹原则
