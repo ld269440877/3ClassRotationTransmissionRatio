@@ -1,12 +1,6 @@
 # 基于碳纳米管的多级纳米旋转传动系统的设计与研究
 
-[所有模型的源文件-结果-可视化等上百G百度网盘链接](https://pan.baidu.com/s/1myylGlC5NW6Ka2lNjtCkCg) 提取码：4K13
-
-<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/所有模型的源文件-结果-可视化等上百G百度网盘链接.png" width="350" height="250" alt="图片名称" align=center>
-
-[本文档案例所有素材链接](https://github.com/ld269440877/images/tree/master/3CRTR)
-
-<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/本文档案例所有素材链接.png" width="350" height="250" alt="图片名称" align=center>
+[我发表的3篇论文pdf链接地址](https://github.com/ld269440877/images/tree/master/3CRTR/MyPapers?1578824427027)
 
 > 参考资料
  > [基于碳纳米管的多级纳米旋转传动系统的设计与研究所有相关的文件均可在此链接获得](https://github.com/ld269440877/images/tree/master/3CRTR)
@@ -34,6 +28,13 @@
 <img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/百度学术-保持学习的态度.png" alt="百度学术-保持学习的态度"  title="百度学术-保持学习的态度" width="300" height="">
 
 PicGo设置自定义链接格式：`<img src="$url" alt="$fileName"  title="$fileName" width="600" height="">`
+[所有模型的源文件-结果-可视化等上百G百度网盘链接](https://pan.baidu.com/s/1myylGlC5NW6Ka2lNjtCkCg) 提取码：4K13
+
+<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/所有模型的源文件-结果-可视化等上百G百度网盘链接.png" width="350" height="250" alt="图片名称" align=center>
+
+[本文档案例所有素材链接](https://github.com/ld269440877/images/tree/master/3CRTR)
+
+<img src="https://raw.githubusercontent.com/ld269440877/images/master/3CRTR/本文档案例所有素材链接.png" width="350" height="250" alt="图片名称" align=center>
 
 ## 建模
 
